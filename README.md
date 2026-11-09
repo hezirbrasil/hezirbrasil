@@ -63,7 +63,7 @@ My application projects were built primarily with AI assistance through prompts.
 ## Languages
 
 - Portuguese — Native
-- English — [Add your current proficiency level]
+- English — Advanced
 
 ---
 
